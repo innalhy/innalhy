@@ -50,9 +50,3 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 * **Hybrid Networking & Security:** Deploying secure access strategies utilizing Cloudflare Tunnels, Nginx Proxy Manager, and Tailscale mesh VPNs.
 * **Containerized Services:** Architecting self-hosted environments with Docker and Synology Container Manager.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innlhy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="innlhy's GitHub Stats" />
-</p>
