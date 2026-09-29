@@ -31,6 +31,14 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+#### 🤖 AI & Local LLM Tools
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-1C1C1C?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemma-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
 #### 🚀 Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -49,4 +57,3 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 * **Local AI Integration:** Engineering private, offline development ecosystems with open-source LLMs (Gemma, Llama) using LM Studio, Ollama, and VS Code extensions.
 * **Hybrid Networking & Security:** Deploying secure access strategies utilizing Cloudflare Tunnels, Nginx Proxy Manager, and Tailscale mesh VPNs.
 * **Containerized Services:** Architecting self-hosted environments with Docker and Synology Container Manager.
-
