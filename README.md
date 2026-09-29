@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 
 ---
 
-### 🌐 Highlights & Infrastructure
+### Mini-homelab Infrastructure
 * **Local AI Integration:** Engineering private, offline development ecosystems with open-source LLMs (Gemma, Llama) using LM Studio, Ollama, and VS Code extensions.
 * **Hybrid Networking & Security:** Deploying secure access strategies utilizing Cloudflare Tunnels, Nginx Proxy Manager, and Tailscale mesh VPNs.
 * **Containerized Services:** Architecting self-hosted environments with Docker and Synology Container Manager.
