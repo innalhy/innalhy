@@ -41,6 +41,8 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
   <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-2F5597?style=for-the-badge&logo=deepseek&logoColor=white" />
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 #### Tools & DevOps
