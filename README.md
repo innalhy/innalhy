@@ -1,7 +1,6 @@
-### Hi there, I'm Inna 👋
+### Hi there, I'm Inna 👋 
 
-Welcome to my GitHub profile! I'm a developer passionate about building web applications, working with data, and setting up self-hosted homelab infrastructure and local AI workflows.
-
+Welcome to my profile! I'm a developer passionate about building web applications, working with data, and setting up self-hosted homelab infrastructure and local AI workflows. Outside of tech, I am a long-term strategic investor focused primarily on stocks, ETFs, bonds, and money market funds (MMFs).
 ---
 
 ### Tech Stacks
@@ -30,6 +29,8 @@ Welcome to my GitHub profile! I'm a developer passionate about building web appl
 
 #### Databases
 <p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
