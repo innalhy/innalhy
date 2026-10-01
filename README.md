@@ -79,3 +79,13 @@ Outside of tech, I am a long-term strategic investor focused primarily on stocks
 * **Local AI Integration:** Engineering private, offline development ecosystems with open-source LLMs (Gemma, Llama) using LM Studio, Ollama, and VS Code extensions.
 * **Hybrid Networking & Security:** Deploying secure access strategies utilizing Cloudflare Tunnels, Nginx Proxy Manager, and Tailscale mesh VPNs.
 * **Containerized Services:** Architecting self-hosted environments with Docker and Synology Container Manager.
+
+--- 
+
+### Statistics 
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=innalhy&show_icons=true&locale=en&layout=compact" alt="innalhy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innalhy&show_icons=true&locale=en" alt="innalhy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innalhy&" alt="innalhy" />
+</p>
+
