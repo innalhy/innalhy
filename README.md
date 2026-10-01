@@ -1,6 +1,8 @@
 ### Hi there, I'm Inna 👋 
 
-Welcome to my profile! I'm a developer passionate about building web applications, working with data, and setting up self-hosted homelab infrastructure and local AI workflows. Outside of tech, I am a long-term strategic investor focused primarily on stocks, ETFs, bonds, and money market funds (MMFs).
+Welcome to my profile! I'm a developer passionate about building web applications, working with data, and setting up self-hosted homelab infrastructure and local AI workflows. 
+
+Outside of tech, I am a long-term strategic investor focused primarily on stocks, ETFs, bonds, and money market funds (MMFs) since 2024.
 
 ---
 
