@@ -79,6 +79,7 @@ Outside of tech, I am a long-term strategic investor focused primarily on stocks
 <p align="center">
   <img src="./homelab-infrastructure.png" alt="Mini-homelab Infrastructure" width="800" />
 </p>
+
 * **Local AI Integration:** Engineering private, offline development ecosystems with open-source LLMs (Gemma, Llama) using LM Studio, Ollama, and VS Code extensions.
 * **Hybrid Networking & Security:** Deploying secure access strategies utilizing Cloudflare Tunnels, Nginx Proxy Manager, and Tailscale mesh VPNs.
 * **Containerized Services:** Architecting self-hosted environments with Docker and Synology Container Manager.
