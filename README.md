@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a developer passionate about building web applications, working with data, and setting up self-hosted homelab infrastructure and local AI workflows. 
 
-Outside of tech, I am a long-term strategic investor focused primarily on stocks, ETFs, bonds, and money market funds (MMFs) since 2024.
+Outside of tech, I am a long-term strategic investor focused primarily on stocks, ETFs, bonds, and funds (including MMFs), since 2024.
 
 ---
 
@@ -87,6 +87,6 @@ Outside of tech, I am a long-term strategic investor focused primarily on stocks
 --- 
 ### Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=innalhy" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=innalhy&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=innalhy&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=innalhy&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
